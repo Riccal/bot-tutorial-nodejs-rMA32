@@ -1,4 +1,4 @@
-var HTTPS = require('https');
+var HTTPS = require('http://daddyleagues.com/gdn');
 var cool = require('cool-ascii-faces');
 
 var botID = process.env.BOT_ID;
